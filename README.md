@@ -15,7 +15,7 @@ The target audience is anyone that would benefit from seeing a diet.  Those look
 ## Dataflow Diagram
 ![data flow diagram](docs/dfd.jpeg)
 ## Application Architecture Diagram
-
+![Architecture Diagram](docs/architecture_diagram.jpeg)
 ## User Stories
 [Trello](https://trello.com/b/csa9MK4B/nourished-to-health)
 ![user stories](docs/user_stories.jpg)
@@ -25,3 +25,4 @@ The target audience is anyone that would benefit from seeing a diet.  Those look
 ## Trello
 [Trello](https://trello.com/b/csa9MK4B/nourished-to-health)
 ![trello1](docs/trello1.jpg)
+![trello2](docs/trello2.jpg)
