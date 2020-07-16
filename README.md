@@ -13,7 +13,7 @@ The target audience is anyone that would benefit from seeing a diet.  Those look
 * Heroku – Back-end cloud hosting
 * MongoDB Atlas – Database cloud hosting
 ## Dataflow Diagram
-
+![data flow diagram](docs/dfd.jpeg)
 ## Application Architecture Diagram
 
 ## User Stories
