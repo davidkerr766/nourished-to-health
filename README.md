@@ -21,8 +21,14 @@ The target audience is anyone that would benefit from seeing a diet.  Those look
 ![user stories](docs/user_stories.jpg)
 
 ## Wireframes
-
+#### About
+![about page](docs/about.png)
+#### Recipes
+![recipes page](docs/recipes.png)
+#### Blog
+![blog page](docs/blog.png)
 ## Trello
 [Trello](https://trello.com/b/csa9MK4B/nourished-to-health)
 ![trello1](docs/trello1.jpg)
 ![trello2](docs/trello2.jpg)
+![trello3](docs/trello3.jpg)
