@@ -38,6 +38,8 @@ The target audience is anyone that would benefit from seeing a diet.  Those look
 * mocha: Test runner/framework
 * supertest: Test library for http servers
 
+## Production User Testing
+![user testing](docs/testing.jpg)
 ## Dataflow Diagram
 ![data flow diagram](docs/dfd.jpeg)
 ## Application Architecture Diagram
